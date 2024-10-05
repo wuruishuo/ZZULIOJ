@@ -1,0 +1,14 @@
+/home/wuruishuo/C类语言/C#/Vscode/ZZULIOJ/0001/bin/Debug/net8.0/0001
+/home/wuruishuo/C类语言/C#/Vscode/ZZULIOJ/0001/bin/Debug/net8.0/0001.deps.json
+/home/wuruishuo/C类语言/C#/Vscode/ZZULIOJ/0001/bin/Debug/net8.0/0001.runtimeconfig.json
+/home/wuruishuo/C类语言/C#/Vscode/ZZULIOJ/0001/bin/Debug/net8.0/0001.dll
+/home/wuruishuo/C类语言/C#/Vscode/ZZULIOJ/0001/bin/Debug/net8.0/0001.pdb
+/home/wuruishuo/C类语言/C#/Vscode/ZZULIOJ/0001/obj/Debug/net8.0/0001.GeneratedMSBuildEditorConfig.editorconfig
+/home/wuruishuo/C类语言/C#/Vscode/ZZULIOJ/0001/obj/Debug/net8.0/0001.AssemblyInfoInputs.cache
+/home/wuruishuo/C类语言/C#/Vscode/ZZULIOJ/0001/obj/Debug/net8.0/0001.AssemblyInfo.cs
+/home/wuruishuo/C类语言/C#/Vscode/ZZULIOJ/0001/obj/Debug/net8.0/0001.csproj.CoreCompileInputs.cache
+/home/wuruishuo/C类语言/C#/Vscode/ZZULIOJ/0001/obj/Debug/net8.0/0001.dll
+/home/wuruishuo/C类语言/C#/Vscode/ZZULIOJ/0001/obj/Debug/net8.0/refint/0001.dll
+/home/wuruishuo/C类语言/C#/Vscode/ZZULIOJ/0001/obj/Debug/net8.0/0001.pdb
+/home/wuruishuo/C类语言/C#/Vscode/ZZULIOJ/0001/obj/Debug/net8.0/0001.genruntimeconfig.cache
+/home/wuruishuo/C类语言/C#/Vscode/ZZULIOJ/0001/obj/Debug/net8.0/ref/0001.dll
