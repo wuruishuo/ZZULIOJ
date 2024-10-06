@@ -1,0 +1,15 @@
+F:\桌面\ZZULIOJ\0000\bin\Debug\net8.0\0000.exe
+F:\桌面\ZZULIOJ\0000\bin\Debug\net8.0\0000.deps.json
+F:\桌面\ZZULIOJ\0000\bin\Debug\net8.0\0000.runtimeconfig.json
+F:\桌面\ZZULIOJ\0000\bin\Debug\net8.0\0000.dll
+F:\桌面\ZZULIOJ\0000\bin\Debug\net8.0\0000.pdb
+F:\桌面\ZZULIOJ\0000\obj\Debug\net8.0\0000.GeneratedMSBuildEditorConfig.editorconfig
+F:\桌面\ZZULIOJ\0000\obj\Debug\net8.0\0000.AssemblyInfoInputs.cache
+F:\桌面\ZZULIOJ\0000\obj\Debug\net8.0\0000.AssemblyInfo.cs
+F:\桌面\ZZULIOJ\0000\obj\Debug\net8.0\0000.csproj.CoreCompileInputs.cache
+F:\桌面\ZZULIOJ\0000\obj\Debug\net8.0\0000.sourcelink.json
+F:\桌面\ZZULIOJ\0000\obj\Debug\net8.0\0000.dll
+F:\桌面\ZZULIOJ\0000\obj\Debug\net8.0\refint\0000.dll
+F:\桌面\ZZULIOJ\0000\obj\Debug\net8.0\0000.pdb
+F:\桌面\ZZULIOJ\0000\obj\Debug\net8.0\0000.genruntimeconfig.cache
+F:\桌面\ZZULIOJ\0000\obj\Debug\net8.0\ref\0000.dll

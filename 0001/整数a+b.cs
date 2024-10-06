@@ -13,5 +13,6 @@ class Program
     int c = Convert.ToInt32(shuzi.Substring(0, shuzi.IndexOf(" ")));
     int d = Convert.ToInt32(shuzi.Substring(shuzi.LastIndexOf(" ")));
     Console.WriteLine("不换行输入:"+(c+d));
+    
     }
 }
